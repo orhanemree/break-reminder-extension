@@ -11,11 +11,14 @@
 * Break Reminder reminds break time to programmers and suggests how can they spend this break well.
 
 ## Suggestions:
-* [Break Reminder](https://github.com/orhanemree/break-reminder-extension)
+* [Break Reminder](https://orhanemre.me/break-reminder-extension)
 * Physical exercises,
 * Typing practice website,
 * Usuless websites for fun,
 * Relaxing websites.
+
+## Installation
+* Install extension from [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=orhanemredev.break-reminder).
 
 ## Usage
 * Active extension and start coding. It will remind you break time after 30 minutes later.
