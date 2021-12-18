@@ -5,7 +5,7 @@ module.exports = {
   deactivate,
 };
 
-const link = "https://orhanemre.me"
+const link = "https://orhanemre.me/break-reminder-extension"
 
 function activate(context) {
     // set default breakTime to 30 minutes

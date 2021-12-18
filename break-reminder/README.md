@@ -2,6 +2,7 @@
 
 * Break reminder for programmers. Helps your physical health while programming in VSCode.
 * This extension is prepaded for [Codetivate Hackathon](https://codetivate.devpost.com/).
+* [GitHub source code](https://github.com/orhanemree/break-reminder-extension).
 
 ## Physical Health of Programmers
 * Programmers have to look computer screens long time due to their jobs.

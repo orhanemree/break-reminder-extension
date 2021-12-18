@@ -3,6 +3,7 @@
     "displayName": "Break Reminder",
     "description": "Break reminder for programmers. Helps your physical health while programming.",
     "icon": "img/icon.png",
+    "publisher": "orhanemredev",
     "repository": { "type": "git", "url": "https://github.com/orhanemree/break-reminder-extension" },
     "version": "1.0.0",
     "engines": {
