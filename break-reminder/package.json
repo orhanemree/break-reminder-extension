@@ -1,0 +1,26 @@
+{
+    "name": "break-reminder",
+    "displayName": "Break Reminder",
+    "description": "Break reminder for programmers. Helps your physical health while programming.",
+    "icon": "img/icon.png",
+    "repository": { "type": "git", "url": "https://github.com/orhanemree/break-reminder-extension" },
+    "version": "1.0.0",
+    "engines": {
+      "vscode": "^1.32.0"
+    },
+    "categories": [
+      "Other"
+    ],
+    "main": "extension.js",
+    "contributes": {
+      "commands": [
+        {
+          "command": "breakReminder.changeTime",
+          "title": "Break Reminder: Change working time"
+        }
+      ]
+    },
+    "activationEvents": [
+      "onStartupFinished"
+    ]
+  }

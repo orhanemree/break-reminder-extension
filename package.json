@@ -1,0 +1,12 @@
+{
+  "name": "break-reminder-extension",
+  "version": "1.0.0",
+  "description": "Break reminder for programmers. Helps your physical health while debugging.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass assets/scss/style.scss assets/css/style.css -w"
+  },
+  "keywords": [],
+  "author": "orhanemree",
+  "license": "ISC"
+}
