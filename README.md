@@ -13,7 +13,7 @@
 ## Suggestions:
 * [Break Reminder](https://orhanemre.me/break-reminder-extension)
 * Physical exercises,
-* Typing practice website,
+* [Typing practice website](https://www.livechat.com/typing-speed-test/#/),
 * Usuless websites for fun,
 * Relaxing websites.
 
